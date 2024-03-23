@@ -924,6 +924,9 @@ int main(){
         case 4:
         cout<<"THANK YOU FOR VISITING";
         break;
+        
+        default:
+        cout<<"Invalid Choice";
     }
     }while(choice!=4);
 }
